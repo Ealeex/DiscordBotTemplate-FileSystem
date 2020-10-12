@@ -4,10 +4,10 @@ This is a template bot for the DiscordJS library.
 This specific template is based off of the NodeJS File System Module.
 
 ## Other templates
-The [If](https://github.com/Ealeex/DiscordBotTemplate-IfStatement) template uses if statements to select commands.
-The [Switch](https://github.com/Ealeex/DiscordBotTemplate-SwitchStatement) template uses switch statements to select commands.
-The [Object](https://github.com/Ealeex/DiscordBotTemplate-ObjectBased) template uses an object to store commands and meta data.
-The [FileSystem](https://github.com/Ealeex/DiscordBotTemplate-FileSystem) template uses files to store commands and meta data.
+The [If](https://github.com/Ealeex/DiscordBotTemplate-IfStatement) template uses if statements to select commands.\
+The [Switch](https://github.com/Ealeex/DiscordBotTemplate-SwitchStatement) template uses switch statements to select commands.\
+The [Object](https://github.com/Ealeex/DiscordBotTemplate-ObjectBased) template uses an object to store commands and meta data.\
+The [FileSystem](https://github.com/Ealeex/DiscordBotTemplate-FileSystem) template uses files to store commands and meta data.\
 
 ## Setup
 
