@@ -1,7 +1,8 @@
 # DiscordJS Bot Template - File System
 
 This is a template bot for the DiscordJS library.\
-This specific template is based off of the NodeJS File System Module.
+This specific template is based off of the NodeJS File System Module.\
+These templates are meant to be beginner friendly.
 
 ## Template Navigation
 The [If](https://github.com/Ealeex/DiscordBotTemplate-IfStatement) template uses if statements to select commands.\
