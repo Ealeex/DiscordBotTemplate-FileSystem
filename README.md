@@ -1,4 +1,4 @@
-# DiscordJS Bot Template - If Statement
+# DiscordJS Bot Template - File System
 
 This is a template bot for the DiscordJS library.
 This specific template is based off of the NodeJS File System Module.
